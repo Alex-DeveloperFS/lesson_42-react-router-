@@ -8,7 +8,7 @@
           <chats>
             <list>
               <chat>
-                <internalId value="d0aab57e-780f-441b-9143-9b975f8c0e98" />
+                <internalId value="53642f65-a7d6-4f8e-8db7-21f8d67eabe3" />
                 <llm>
                   <llm>
                     <model value="anthropic/claude-3-sonnet-20240229" />
@@ -18,17 +18,7 @@
                 </llm>
               </chat>
               <chat>
-                <internalId value="e842a462-a1b1-4bc3-b84c-ba4560644366" />
-                <llm>
-                  <llm>
-                    <model value="anthropic/claude-3-sonnet-20240229" />
-                    <provider value="Anthropic" />
-                    <title value="Claude 3 Sonnet" />
-                  </llm>
-                </llm>
-              </chat>
-              <chat>
-                <internalId value="65bf1518-de5c-4f05-9e06-048f44b495d9" />
+                <internalId value="c9fe7d37-165d-4f79-a94b-51a580c9a2b8" />
                 <llm>
                   <llm>
                     <model value="anthropic/claude-3-sonnet-20240229" />
